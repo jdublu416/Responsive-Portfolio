@@ -1,0 +1,118 @@
+body{
+   
+   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+   background: url(../images/greyfloral/greyfloral.png) repeat;
+   }
+
+.mynav {
+   /* clear: both; */
+    display:inline;
+   
+}
+
+.color1 { 
+    
+    color: #777;
+
+}
+
+/* .my-image{ */
+    width:100%;}
+
+
+.jummar {
+    /* max-height: 100%; */
+    margin-bottom: 0;
+    padding-bottom: 0%;
+    
+}
+
+.nameplate {
+
+    /* float: left; */
+    width: 250px;
+    padding: 20px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    background: #4aaaa5;
+    /* margin-bottom: 25px; */
+
+}
+
+
+
+    
+header{
+
+         background-color: white;
+        /* border: 2px solid red; used for visual cue */
+        font-family:'Georgia', Times, Times New Roman, serif;
+        border-bottom: 3px solid #cccccc;
+        
+        
+    } 
+
+.section {
+        background: white;
+
+    }
+
+nav ul {
+        padding-top: 25px;
+        color: #777;
+    }
+
+.bgsection {
+
+        background-color: white;
+    }
+
+.height1 {
+       height: 450px;
+    }
+
+.height2{
+    height: 110px;
+}
+
+footer {
+        background-color: #666666;
+        border-top: 10px solid #4aaaa5;
+        text-align: center;
+        padding: 25px 0;
+    } 
+/* need to put a space underneath header */
+.pushsec{
+
+margin-top: 50px;
+max-width: 90%;
+
+}
+
+.main {
+
+
+    }
+
+.button{
+    background-color: #4aaaa5;
+    padding: 10px 20px;
+    }
+
+.banner { 
+        /* width: 270px; */
+        /* height: 50px; */
+        text-align: center;
+        padding-top: 10px;
+        color: white;
+        background-color: #4aaaa5;
+        /* margin-bottom: 35px; */
+        position: relative;
+        bottom: 65px;
+    }
+    
