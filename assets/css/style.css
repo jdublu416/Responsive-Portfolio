@@ -5,6 +5,8 @@ body {
   color: #777;
   background: url(../images/greyfloral/greyfloral.png);
   margin-top: -10px;
+  margin-left:0;
+  margin-right:0;
 }
 
 * {
